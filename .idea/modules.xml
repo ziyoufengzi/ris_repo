@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ris/ris.iml" filepath="$PROJECT_DIR$/ris/ris.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ris/ris-common/ris-common.iml" filepath="$PROJECT_DIR$/ris/ris-common/ris-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ris/ris-dao/ris-dao.iml" filepath="$PROJECT_DIR$/ris/ris-dao/ris-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ris/ris-service/ris-service.iml" filepath="$PROJECT_DIR$/ris/ris-service/ris-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ris/ris-web/ris-web.iml" filepath="$PROJECT_DIR$/ris/ris-web/ris-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/ris_repo.iml" filepath="$PROJECT_DIR$/.idea/ris_repo.iml" />
+    </modules>
+  </component>
+</project>
